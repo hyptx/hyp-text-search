@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Hyp Text Search
-Plugin URI: http://textsearch.myhyperspace.com
+Plugin URI: https://github.com/hyptx/hyp-text-search
 Description: A client side text search plugin
 Version: 1.0
 Author: Adam J Nowak
