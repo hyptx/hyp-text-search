@@ -17,8 +17,6 @@ Instructions:
 
 2) To create a custom page template, make a copy of page.php. Then name this file page-MYSLUG.php
 
-Example: the page url is http://tsi.hyptx.com/hippa-manual/, name the template page-hippa-manual.php
-
 If you want to create a template for more than one page, just add the template name PHP block to the top of the template file. Then you can select this template from the wordpress page editor for any page.
 
 /* Template Name: MyTemplateName */
