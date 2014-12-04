@@ -1,13 +1,9 @@
 hyp-text-search
 ===============
 
-This plugin adds a search box to the top of wordpress content. It will render the box between the title for the page and the content.
-
-##Instructions
-
 This plugin adds a search box to the top of wordpress content. It will render the box between the title for the page and the content. The div targeted by the search can be changed in: hyp-text-search.js. Just change #main-content to whatever element you want to target on line 79 and 84
 
-Instructions:
+##Instructions
 
 1) Add this to the top of a page template (like page.php) above get_header(); Page templates located in the root directory of the theme.
 
